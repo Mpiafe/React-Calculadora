@@ -1,0 +1,38 @@
+.App {
+  width: 100%;
+  height: 100%;
+   padding-top: 10px;
+   font-family: Lato, sans-serif;
+   font-weight: bold;
+   background-color: #1b1b32;
+   color: white;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items:center;
+}
+
+.titulo{
+   width: 100%;
+   height: 80px;
+   margin:8px;
+   display: flex;
+   align-items: center;
+   justify-content: center;   
+}
+
+.contenedor-calculadora{
+   width: 400px;
+   height: 600px;
+   padding:14px;
+   margin-bottom: 20px;
+   background-color: #99c9ff;
+   border-radius: 20px;
+   border:5px solid white;
+}
+.fila{
+   margin:4px;
+   display:flex;
+   align-items: center;
+   justify-content: center;
+}
